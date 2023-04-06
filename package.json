@@ -1,0 +1,18 @@
+{
+  "name": "welnessforseniors",
+  "version": "1.0.0",
+  "description": "Web app to learn about health and wellness for 65+ age group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "ParthasarathiMahana",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1",
+    "nodemon": "^2.0.22"
+  }
+}
