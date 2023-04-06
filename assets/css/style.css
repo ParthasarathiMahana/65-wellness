@@ -1,0 +1,26 @@
+#nav-bar-logo{
+    width: 20%;
+}
+
+.showIt{
+    display: flex;
+}
+.carousel-slide-img{
+    height: 60vh;
+}
+
+.ivList{
+    display: none;
+}
+
+.dropdown-item :hover .ivList{
+    display: block;
+}
+
+#course-creation-form{
+    display: none;
+}
+
+#course-creation-form{
+    display: none;
+}
